@@ -1,9 +1,9 @@
-package insolvency_poc
+package main
 
 import (
 	"fmt"
 	"github.com/companieshouse/chs.go/log"
-	"github.com/companieshouse/emergency-auth-code-api/handlers"
+	"github.com/companieshouse/insolvency-poc/handlers"
 	"github.com/gorilla/mux"
 	"net/http"
 )
